@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "titulo": "Conserto de telhado",
+        "descricao": "Telhado danificado precisa de reparo.",
+        "local": "https://maps.app.goo.gl/BM5cZsiWWnwSNoVG7",
+        "preco": 300
+    },
+    {
+        "id": 2,
+        "titulo": "Tecnico de ti",
+        "descricao": "Concerto computadores.",
+        "local": "https://maps.app.goo.gl/BM5cZsiWWnwSNoVG7",
+        "preco": 50
+    }
+]
